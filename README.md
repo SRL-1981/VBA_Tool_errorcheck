@@ -13,14 +13,17 @@
 
 （マクロ実行前と実行後のシートのスクリーンショット）
 
+エラー検出対象シート
+<img width="1920" height="1080" alt="スクリーンショット (12)" src="https://github.com/user-attachments/assets/8ba9797f-7b96-45bc-9f99-9aa6158948bc" />
+
+
 マクロ実行前の出力用シート
-<img width="1920" height="1080" alt="取得したファイルのシート1" src="https://github.com/user-attachments/assets/f0ccea90-4e93-4492-bf2f-6a4d24070843" />
+<img width="1920" height="1080" alt="スクリーンショット (10)" src="https://github.com/user-attachments/assets/cc6ebe70-af38-44a6-bfb1-cdc75c2cc6aa" />
+
 
 マクロ実行画面
-<img width="1920" height="1080" alt="取得したファイルのシート2" src="https://github.com/user-attachments/assets/75ec32cb-830c-4b93-b0b3-010305a6bebe" />
+<img width="1920" height="1080" alt="スクリーンショット (11)" src="https://github.com/user-attachments/assets/b765f236-c166-4120-9959-9f975e3b1b1c" />
+
 
 マクロ実行後の出力用シート
-<img width="1920" height="1080" alt="取得したファイルのシート3" src="https://github.com/user-attachments/assets/b676c577-0303-468d-a439-9357d0f49f72" />
-
-
-<img width="1920" height="1080" alt="取得したファイルのシート4" src="https://github.com/user-attachments/assets/3f7c136f-cc7a-463e-998c-2d00555655df" />
+<img width="1920" height="1080" alt="スクリーンショット (13)" src="https://github.com/user-attachments/assets/e1d205d0-67c3-43bd-8180-33e97067198e" />
