@@ -33,7 +33,7 @@
 
 （マクロ実行前後やその他スクリーンショット掲載）
 
-エラー検出対象シート
+異常検出対象シート
 <img width="1920" height="1080" alt="スクリーンショット (29)" src="https://github.com/user-attachments/assets/1ac499bf-8ea8-487f-9c94-5ec6609a93f7" />
 
 マクロ実行前の出力用シート
